@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.login-box{
+    width: 200px !important; 
+    margin: 0 auto;
+}
+
+.user_info{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.user_input{
+    display: block;
+}
